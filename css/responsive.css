@@ -1,0 +1,19 @@
+@media(max-width:576px){
+.mobile-display-none{
+	display:none;
+	
+}
+.bg-color a{
+	background-color:#5c9f24;
+	width:20%;
+	text-align:center;
+	padding-left:0px!important;
+padding-right:0px!important;	
+}
+.sec-4-img img {
+    max-width: 50%;
+}
+@media(min-width:768px) and (max-width:991px){
+
+
+}
